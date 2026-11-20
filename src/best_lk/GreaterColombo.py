@@ -1,0 +1,23 @@
+class GreaterColombo:
+    places = {
+        "Colombo": (6.93, 79.86),
+        "Negombo": (7.2083, 79.8358),
+        "Katunayaka": (7.16992, 79.88837),
+        "Minuwangoda": (7.1663, 79.9533),
+        "Gampaha": (7.09, 79.99),
+        "Ja-Ela": (7.0744, 79.8919),
+        "Wattala": (6.98918, 79.89167),
+        "Kadawatha": (7.0009, 79.95012),
+        "Kelaniya": (6.9553, 79.922),
+        "Kaduwela": (6.9339, 79.982),
+        "Sri Jayewardenepura Kotte": (6.88297, 79.90708),
+        "Maharagama": (6.848, 79.9265),
+        "Dehiwala-Mount Lavinia": (6.84019, 79.87116),
+        "Homagama": (6.844, 80.0024),
+        "Hanwella": (6.9086, 80.0796),
+        "Padukka": (6.8408, 80.0897),
+        "Moratuwa": (6.773, 79.8816),
+        "Panadura": (6.7132, 79.9026),
+        "Bandaragama": (6.7144, 79.988),
+        "Horana South": (6.7159, 80.0626),
+    }
